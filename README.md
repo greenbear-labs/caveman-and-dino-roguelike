@@ -20,15 +20,19 @@ The canvas scales to fit whatever size its container is.
 | --- | --- | --- | --- |
 | Move | WASD | Left stick or D-pad | Left half of screen |
 | Throw rocks | Arrow keys, or hold the mouse button | Right stick or face buttons | Right half of screen |
+| Drop a coconut bomb | E, Shift or Space | Bumpers | Tap the hearts |
 | Pause | P or Esc | Start | Tap the minimap |
+| Fullscreen | F | | |
 | Mute | M | | |
 
 ## What's in this slice
 
 - 3 floors (Fern Hollow, Tar Pits, Magma Deeps), each a random map of 9 to 15 rooms with a treasure room and a boss room
 - Rooms lock until every dino is cleared, with random obstacle layouts: boulders, bone piles, breakable ferns and slowing tar
-- 6 enemy types: compies (chasers), pteros (fliers), spitters (ranged), ankylos (charge when lined up), eggs (hatch into compies) and dodos (hop around honking)
-- A tyrant lizard boss with charge, ground-pound, roar and fire-spit attacks, recolored and stronger on each floor
-- 16 items: Mammoth Tusk, Bone Sling, Raptor Feather, Turtle Shell, Fire Stick, Handful of Pebbles, Big Rock, Amber Eye, Lucky Claw, Dino Heart, Flint Spear, Rubber Rock, Bean Stew, Pet Rock, Googly Eyes, Party Hat
+- 8 enemy types: raptors (stalk then pounce), stegos (fire plates in all directions), compies (chasers), pteros (fliers), spitters (ranged), ankylos (charge when lined up), eggs (hatch into compies) and dodos (hop around honking)
+- A different boss on each floor: Gnasher the T-rex (charge, belly flop, roar, fire spit), Triceratank (chained rams, horn volleys, quake stomps) and Magma Momma the giant pterosaur (swoops, egg drops, feather storms)
+- Coconut bombs that hurt dinos and blow up boulders, bones and ferns
+- Shiny shells currency and a shop run by an old caveman
+- 19 items: Bone Boomerang, Coconut Tree, Shiny Magnet, Mammoth Tusk, Bone Sling, Raptor Feather, Turtle Shell, Fire Stick, Handful of Pebbles, Big Rock, Amber Eye, Lucky Claw, Dino Heart, Flint Spear, Rubber Rock, Bean Stew, Pet Rock, Googly Eyes, Party Hat
 - Cartoon feel: BONK! popups, hit-stop, squash and stretch, dino speech bubbles, boss one-liners and death epitaphs
 - Meat and berry heals, minimap, pause screen with stats, best-floor record saved in the browser
