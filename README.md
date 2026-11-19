@@ -27,7 +27,8 @@ The canvas scales to fit whatever size its container is.
 
 - 3 floors (Fern Hollow, Tar Pits, Magma Deeps), each a random map of 9 to 15 rooms with a treasure room and a boss room
 - Rooms lock until every dino is cleared, with random obstacle layouts: boulders, bone piles, breakable ferns and slowing tar
-- 5 enemy types: compies (chasers), pteros (fliers), spitters (ranged), ankylos (charge when lined up) and eggs (hatch into compies)
+- 6 enemy types: compies (chasers), pteros (fliers), spitters (ranged), ankylos (charge when lined up), eggs (hatch into compies) and dodos (hop around honking)
 - A tyrant lizard boss with charge, ground-pound, roar and fire-spit attacks, recolored and stronger on each floor
-- 11 items: Mammoth Tusk, Bone Sling, Raptor Feather, Turtle Shell, Fire Stick, Handful of Pebbles, Big Rock, Amber Eye, Lucky Claw, Dino Heart, Flint Spear
+- 16 items: Mammoth Tusk, Bone Sling, Raptor Feather, Turtle Shell, Fire Stick, Handful of Pebbles, Big Rock, Amber Eye, Lucky Claw, Dino Heart, Flint Spear, Rubber Rock, Bean Stew, Pet Rock, Googly Eyes, Party Hat
+- Cartoon feel: BONK! popups, hit-stop, squash and stretch, dino speech bubbles, boss one-liners and death epitaphs
 - Meat and berry heals, minimap, pause screen with stats, best-floor record saved in the browser
